@@ -1,0 +1,5 @@
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\ClientAkademik\ClientAkademik\bin\ClientAkademik.dll
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\ClientAkademik\ClientAkademik\bin\ClientAkademik.pdb
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\ClientAkademik\ClientAkademik\obj\Debug\ClientAkademik.dll
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\ClientAkademik\ClientAkademik\obj\Debug\ClientAkademik.pdb
+D:\Fadori folder\Kuliah\Semester 5\Sistem Terdistribusi\C# Program\ClientAkademik\ClientAkademik\obj\Debug\ClientAkademik.csprojResolveAssemblyReference.cache
